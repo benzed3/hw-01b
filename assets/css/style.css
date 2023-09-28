@@ -52,3 +52,12 @@ h5 {
     background: #ffffff;
     height: 400px;
 }
+
+h2 {
+    padding: 20px 0 20px 0;
+    margin: 0 15px 0 15px;
+}
+
+hr {
+    margin: 0 15px 0 15px;
+}

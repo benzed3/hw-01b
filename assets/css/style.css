@@ -67,3 +67,11 @@ hr {
 img {
     margin: 15px;
 }
+
+p {
+    float: right;
+    width: 68%;
+    margin-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}

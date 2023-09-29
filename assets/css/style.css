@@ -102,3 +102,17 @@ footer {
 }
 
 /*PORTFOLIO.HTML*/
+
+#kenshin {
+    width: 30%;
+    position: relative;
+}
+
+#pic-text1 {
+    background: #4aaaa5;
+    margin: 0;
+    color: white;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}

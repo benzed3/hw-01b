@@ -103,9 +103,13 @@ footer {
 
 /*PORTFOLIO.HTML*/
 
+.box {
+    width: 33.3%;
+}
+
 .kenshin {
-    width: 30%;
     position: relative;
+    object-fit: contain;
 }
 
 .pic-text1 {

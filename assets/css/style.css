@@ -105,11 +105,12 @@ footer {
 
 .box {
     width: 33.3%;
+    height: 319px;
+    position: relative;
 }
 
-.kenshin {
-    position: relative;
-    object-fit: contain;
+img {
+    object-fit: cover;
 }
 
 .pic-text1 {

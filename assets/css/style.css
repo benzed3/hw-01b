@@ -102,3 +102,19 @@ footer {
 }
 
 /*PORTFOLIO.HTML*/
+
+.row1 {
+    width: 100%;
+    height: 150px;
+}
+
+.box {
+    width: 33%;
+}
+
+img {
+    object-fit: fill;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}

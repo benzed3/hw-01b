@@ -102,20 +102,3 @@ footer {
 }
 
 /*PORTFOLIO.HTML*/
-
-.box {
-    width: 33.3%;
-    height: 319px;
-    position: relative;
-}
-
-img {
-    object-fit: cover;
-}
-
-.pic-text1 {
-    background: #4aaaa5;
-    margin: 0;
-    color: white;
-    position: absolute;
-}

@@ -183,3 +183,9 @@ footer {
     width: 33%;
     float: left;
 }
+
+form {
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+}

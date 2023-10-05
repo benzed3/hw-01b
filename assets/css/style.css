@@ -193,3 +193,12 @@ form {
 input {
     width: 100%;
 }
+
+#button {
+    background: #4aaaa5;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100px;
+    padding: 5px 0 5px 0;
+    border: 0;
+}

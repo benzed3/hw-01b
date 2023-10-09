@@ -110,8 +110,9 @@ footer {
 }
 
 .box1 {
-    width: 33%;
+    width: 30%;
     float: left;
+    margin: 15px;
 }
 
 #img1 {
@@ -133,8 +134,9 @@ footer {
 }
 
 .box2 {
-    width: 33%;
+    width: 30%;
     float: left;
+    margin: 15px 15px 15px 100px;
 }
 
 .imgTxt2 {
@@ -175,13 +177,14 @@ footer {
 
 #img3 {
     object-fit: fill;
-    margin: 0;
+    margin: 0 0 0 77px;
     width: 45%;
 }
 
 .box3 {
-    width: 33%;
+    width: 30%;
     float: left;
+    margin: 15px;
 }
 
 form {

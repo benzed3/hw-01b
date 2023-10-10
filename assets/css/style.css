@@ -55,6 +55,10 @@ a {
     color: #777777;
 }
 
+a:hover {
+    font-size: 103%;
+}
+
 /*main content*/
 #content {
     clear: both;

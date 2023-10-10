@@ -107,12 +107,25 @@ footer {
 
 /*PORTFOLIO.HTML*/
 
+/*main content*/
+.cont {
+    clear: both;
+    width: 960px;
+    margin: 0 auto;
+    background: #ffffff;
+    height: 575px;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 2px;
+}
+
 .row1 {
     width: 100%;
     height: 150px;
     position: relative;
 }
 
+/*kenshin image*/
 .box1 {
     width: 30%;
     float: left;
@@ -137,10 +150,17 @@ footer {
     width: 30%;
 }
 
+/*kaoru image*/
 .box2 {
     width: 30%;
     float: left;
     margin: 15px 15px 15px 90px;
+}
+
+#img2 {
+    object-fit: fill;
+    margin: 0;
+    width: 38%;
 }
 
 .imgTxt2 {
@@ -155,17 +175,24 @@ footer {
     width: 30%;
 }
 
-#img2 {
-    object-fit: fill;
-    margin: 0;
-    width: 38%;
-}
-
 .row2 {
     width: 100%;
     height: 150px;
     position: relative;
     clear: both;
+}
+
+/*sanosuke image*/
+.box3 {
+    width: 30%;
+    float: left;
+    margin: 15px;
+}
+
+#img3 {
+    object-fit: fill;
+    margin: 0 0 0 77px;
+    width: 45%;
 }
 
 .imgTxt3 {
@@ -179,22 +206,18 @@ footer {
     width: 30%;
 }
 
-#img3 {
-    object-fit: fill;
-    margin: 0 0 0 77px;
-    width: 45%;
-}
-
-.box3 {
-    width: 30%;
-    float: left;
-    margin: 15px;
-}
+/*megumi image*/
 
 .box4 {
     width: 30%;
     float: left;
     margin: 15px 15px 15px 90px;
+}
+
+#img4 {
+    object-fit: fill;
+    margin: 0;
+    width: 38%;
 }
 
 .imgTxt4 {
@@ -209,11 +232,7 @@ footer {
     width: 30%;
 }
 
-#img4 {
-    object-fit: fill;
-    margin: 0;
-    width: 38%;
-}
+/*CONTATCT.HTML*/
 
 form {
     margin: 15px;
@@ -232,15 +251,4 @@ input {
     width: 100px;
     padding: 5px 0 5px 0;
     border: 0;
-}
-
-.cont {
-    clear: both;
-    width: 960px;
-    margin: 0 auto;
-    background: #ffffff;
-    height: 575px;
-    border-style: solid;
-    border-color: #dddddd;
-    border-width: 2px;
 }

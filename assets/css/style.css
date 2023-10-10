@@ -136,7 +136,7 @@ footer {
 .box2 {
     width: 30%;
     float: left;
-    margin: 15px 15px 15px 100px;
+    margin: 15px 15px 15px 90px;
 }
 
 .imgTxt2 {
@@ -190,7 +190,7 @@ footer {
 .box4 {
     width: 30%;
     float: left;
-    margin: 15px 15px 15px 100px;
+    margin: 15px 15px 15px 90px;
 }
 
 .imgTxt4 {
@@ -228,4 +228,15 @@ input {
     width: 100px;
     padding: 5px 0 5px 0;
     border: 0;
+}
+
+.cont {
+    clear: both;
+    width: 960px;
+    margin: 0 auto;
+    background: #ffffff;
+    height: 575px;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 2px;
 }
